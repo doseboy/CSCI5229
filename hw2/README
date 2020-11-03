@@ -1,0 +1,21 @@
+Homework 2 - William Anderson
+Professor: Willem Schrueder
+Date: 06/14/2020
+CSCI 4229/5229 Summer 2020
+
+Time taken to complete: 5 hours
+
+Running the code:
+make clean
+make
+./hw2
+
+Keyboard Interaction:
+0       ---> Reset view angle
+m       ---> Adjust perspective between orthogonal, perspective, and first person
+x       ---> Adjust axis
+arrows  ---> Change view angle (only in orthogonal and perspective mode)
+a,s,w,d ---> Move in first person (forward/backward/left/right)
+j,k,i,l ---> Look in first person (left/down/up/right)
+-/+     ---> Toggle Field of View
+ESC     ---> Exit

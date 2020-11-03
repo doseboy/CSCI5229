@@ -1,0 +1,32 @@
+Homework 1 - William Anderson
+Professor: Willem Schrueder
+Date: 06/07/2020
+CSCI 4229/5229 Summer 2020
+
+Time taken to complete: 3 hours
+
+Running the code:
+make clean
+make 
+./hw1_wiliam_anderson
+
+Keyboard Interaction:
+s ----> Decrement 's'
+d ----> Increment 's'
+
+b ----> Decrement 'b'
+n ----> Increment 'b'
+
+r ----> Decrement 'r'
+t ----> Increment 'r'
+
+- ----> zoom in
++ ----> zoom out
+
+z ----> reset parameters
+
+arrows ----> adjust view angle
+
+0 ----> reset view angle
+
+ESC ----> exit

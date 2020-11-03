@@ -1,0 +1,26 @@
+Homework 3 - William Anderson
+Professor: Willem Schrueder
+Date: 06/21/2020
+CSCI 4229/5229 Summer 2020
+
+Time taken to complete: 10-15 hours
+
+Running the code:
+make clean
+make
+./hw3
+
+Keyboard Interaction:
+  l          Toggle lighting on/off
+  a/A        decrease/increase ambient light
+  d/D        decrease/increase diffuse light
+  s/S        decrease/increase specular light
+  e/E        decrease/increase emitted light
+  n/N        Decrease/increase shininess
+  []         Lower/rise light
+  x          Toggle axes
+  arrows     Change view angle
+  PgDn/PgUp  Zoom in and out
+  0          Reset view angle
+  ESC        Exit
+
